@@ -26,3 +26,4 @@ class Solution:
             if password[char] == password[char + 1]:
                 return False
         return True
+a = 0
