@@ -1,3 +1,4 @@
+a = 0
 class Solution:
     def strongPasswordCheckerII(self, password: str) -> bool:
         if len(password) < 8:
