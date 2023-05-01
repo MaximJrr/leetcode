@@ -13,4 +13,4 @@ class Solution:
                 result.append(slow)
             slow = slow.next
             fast = fast.next.next
-        return head
+        return slow
