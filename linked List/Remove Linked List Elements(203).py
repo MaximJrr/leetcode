@@ -15,6 +15,5 @@ class Solution:
             else:
                 prev = cur
             cur = next
-
         return dummy.next
 
