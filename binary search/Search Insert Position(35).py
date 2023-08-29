@@ -12,6 +12,3 @@ def searchInsert(nums: list[int], target: int):
                 else:
                     r = mid - 1
             return l
-
-
-
