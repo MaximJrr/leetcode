@@ -9,3 +9,6 @@ class Solution:
                 result += char
 
         return ''.join(result)
+
+
+print('hello')
