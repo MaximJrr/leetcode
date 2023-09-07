@@ -12,3 +12,4 @@ class Solution:
 
 
 print('hello')
+print('hello2')
