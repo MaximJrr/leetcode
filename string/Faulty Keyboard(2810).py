@@ -9,9 +9,3 @@ class Solution:
                 result += char
 
         return ''.join(result)
-
-
-print('hello')
-print('hello2')
-#ruighruijg
-#rhgiurg
