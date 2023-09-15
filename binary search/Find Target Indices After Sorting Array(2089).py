@@ -7,3 +7,4 @@ class Solution:
             if sorted_nums[num] == target:
                 result.append(num)
         return result
+        
