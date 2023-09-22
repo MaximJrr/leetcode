@@ -6,3 +6,4 @@ class Solution:
                 if j < 0:
                     count += 1
         return count
+    
